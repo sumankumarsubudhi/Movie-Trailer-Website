@@ -26,4 +26,4 @@ The Python module called fresh_tomatoes.py has a function called open_movies_pag
 
 
 # Run the code 
- - open the entertainment_center.py and run the module
+ - open the entertainment_center.py and run the module.
