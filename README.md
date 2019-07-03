@@ -10,7 +10,7 @@
  version : python 2.7.9 or later for better running of this project,executable in the default path, like add extensions while installing it.
  
  
-# Contents:
+## Contents:
 1. media.py: python script which contains class Movie.
 2. entertainment_center.py - main script where we run the program
 3. fresh_tomatoes.py - creates HTML page for project.
