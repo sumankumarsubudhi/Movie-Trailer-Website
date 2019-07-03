@@ -25,5 +25,5 @@ The entertainment_center.py file creates multiple instances of that Movie Class 
 The Python module called fresh_tomatoes.py has a function called open_movies_page that takes in one argument, which is a list of movies and creates an HTML file which visualizes all of your favorite movies.
 
 
-# Run the code 
+## Run the code 
  - open the entertainment_center.py and run the module.
