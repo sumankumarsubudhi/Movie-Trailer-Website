@@ -1,4 +1,4 @@
-# MOVIE TRAILER WEBSITE - UDACITY PROJECT
+# Movie Trailer Website - Udacity Project
 
 
 # How It Works
