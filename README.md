@@ -6,7 +6,7 @@
  click on the poster to play its trailer.
  
  
-# Requirements and Reliables:
+## Requirements and Reliables:
  version : python 2.7.9 or later for better running of this project,executable in the default path, like add extensions while installing it.
  
  
