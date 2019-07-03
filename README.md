@@ -17,7 +17,7 @@
                      - default file provided by udacity, user can change it accordingly for their reliability of the code.
          
          
-# Details:
+## Details:
  The Movie Class in the media.py module creates a data structure to store your favorite movies, including movie title, box art URL (or poster URL) and a YouTube link to the movie trailer.
 
 The entertainment_center.py file creates multiple instances of that Movie Class to represent your favorite movies and groups all the instances together in a list.
